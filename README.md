@@ -7,7 +7,7 @@ Automating and Tracking Supervised Machine Learning program using MLFlow. Use of
 - Modelling: - Using Logistic regression to classify fraudulent and non-fradulent transactions.
 - Evaluation: - Using metrics like confusion matrix and ROC curve to monitor model performance.
 - Automation and Tracking: - using Mlflow to automate and keep track of machine learning lifecycle.
-### How to use
+### Instructions on usage
 - Download dataset from link and copy into same folder containing templete, fraud.py files
 - run the python file from command prompt
 - open the flask link from command prompt in browser
