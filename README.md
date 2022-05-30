@@ -9,10 +9,10 @@ Automating and Tracking Supervised Machine Learning program using MLFlow. Use of
 - Automation and Tracking: - using Mlflow to automate and keep track of machine learning lifecycle.
 ### Instructions on usage
 - Download dataset from link and copy into same folder containing templete, fraud.py files
-- run the python file from command prompt
+- run the python file from command prompt in the project directory
 - open the flask link from command prompt in browser
 - enter amount of records into the **index** box and click enter
 - then click shutdown on webpage
 - On the command prompt click **Ctrl + c** to shut down flask completely and learning will continue
-- You can enter the following command **mlflow ui -p 1234** into a seperate command prompt
+- You can enter the following command **mlflow ui -p 1234** into a seperate command prompt but same directory as before.
 - On a different webpage insert the following [link](http://localhost:1234/), this is the page which you will find all logged metrics and artifacts.
