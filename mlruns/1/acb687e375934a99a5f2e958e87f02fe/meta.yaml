@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MICHEAL/Downloads/Fraud_detection/mlruns/1/acb687e375934a99a5f2e958e87f02fe/artifacts
+end_time: 1653943974886
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: acb687e375934a99a5f2e958e87f02fe
+run_uuid: acb687e375934a99a5f2e958e87f02fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653943966253
+status: 3
+tags: []
+user_id: MICHEAL

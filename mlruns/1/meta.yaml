@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/MICHEAL/Downloads/Fraud_detection/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: Fraud Detection
