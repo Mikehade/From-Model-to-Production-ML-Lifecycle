@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta name="viewport" content="initial-scale=1, width=device-width">
+        <title>
+            List
+        </title>
+        <style>
+            .container {
+                margin-left: auto;
+                margin-right: auto;
+                padding-left: 15px;
+                padding-right: 15px;
+                padding: 0.5rem 2rem 1rem 2rem;
+            }
+        </style>
+    </head>
+    <body>
+        
+        <div class="container">
+            <form action="/" method="post">
+            
+                <center><input class="container" class="form-control mx-auto w-auto" placeholder="Index" id="index" name="index" autocomplete="off" aria-autocomplete="none"></center>
+                <center><button class="container" class="btn btn-outline-primary">Index</button></center>
+            
+            </form>
+        </div>
+        <p>{{ list }}</p>
+        <div class="container">
+            <form action="/shutdown" method="post">
+                <center><button id="submit" class="btn btn-outline-primary">Shut Down</button></center>
+            </form>
+        </div>
+    </body>
+</html>
